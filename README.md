@@ -12,7 +12,7 @@ __Dr. Thomas John MD, DM (Neurology)__\
 Professor & Head of Neurology, Amala Hospital, Thrissur\
 1:00 PM to 5:00 PM (Sunday and Thursday Holiday)
 
-__Dr. Asha Elizabeth Mathew MBBS, DPMR, DNB (Physical Medicine & Rehabilitation)__\
+__Dr. Asha Elizabeth Mathew MBBS, DPMR, DNB (Physical Medicine)__\
 Associate Professor, Amala Hospital, Thrissur\
 Every Thursday - 1:00 PM to 2:00 PM
 
