@@ -1,7 +1,7 @@
 # Neurocare - Kunnamkulam
 ### Dr. Thomas John's Neurology Clinic
 
-__Nehru Nagar 2nd Street,__\
+__Nehru Nagar 2nd Avenue,__\
 __Near Royal Hospital,__\
 __Kunnamkulam, Kerala__
 
