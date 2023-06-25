@@ -21,7 +21,7 @@
 title: Neurocare
 tagline: Dr. Thomas John's neurology clinic
 description: >- # this means to ignore newlines until "baseurl:"
-  Dr. Thomas John's neurology clinic located in Kunnamkulam, Thrissur. Offers consultatioand treatment for neurological illnesses like epilepsy, headache, seizure disorder, febrile seizure, stroke, numbness, general weakness, giddiness, vertigo, dizziness, neck pain, back pain, lower back pain, upper and lower limb pain, visual blurring and double vision. 
+  Dr. Thomas John's neurology clinic located in Kunnamkulam, Thrissur. Offers consultation and treatment for neurological illnesses like epilepsy, headache, seizure disorder, febrile seizure, stroke, numbness, general weakness, giddiness, vertigo, dizziness, neck pain, back pain, lower back pain, upper and lower limb pain, visual blurring and double vision. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "neurocare.site" # the base hostname & protocol for your site, e.g. http://example.com
 
